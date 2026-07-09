@@ -1,0 +1,6 @@
+/server
+*.exe
+.DS_Store
+.anyhost/
+.agents/
+.env
